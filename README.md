@@ -14,7 +14,6 @@ Specification:
 * Power saving mode is default.</li>
 * You can reset the temperature to 20 degrees by hitting the reset button.</li>
 * The thermostat should colour the display based on energy usage - < 18 is green, < 25 is yellow, otherwise it's red.
-* After every temperature change, the thermostat makes a POST request to localhost:4567/temperature_change, with the new temperature.
 
 
 Technologies used:
