@@ -1,5 +1,5 @@
 Thermostat
-===========
+==========
 
 This project consists of a thermostat web application written in javascript.
 
